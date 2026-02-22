@@ -9,9 +9,9 @@ Core Philosophy: No social media, No public validation and Private clarity tool
 #Core Features
 
 1. User Profiles: Track personal information and decision activity
-2.Decision Logging: Record situations, options, chosen decisions, reasoning and expected outcomes
-3.Reflection Module: Review outcomes, lessons learned and insights
-4.Insights Dashboard: Visualize decision trends, categories and reflection status
+2. Decision Logging: Record situations, options, chosen decisions, reasoning and expected outcomes
+3. Reflection Module: Review outcomes, lessons learned and insights
+4. Insights Dashboard: Visualize decision trends, categories and reflection status
 
 #clarus-backend:
 
