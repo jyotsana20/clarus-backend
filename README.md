@@ -27,6 +27,7 @@ Features:
 4. Secure and modular structure (MVC pattern)
 
 Setup:
+
 1.Clone the repo
 
 2.Install dependencies: npm install
