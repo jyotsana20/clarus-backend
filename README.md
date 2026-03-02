@@ -29,6 +29,9 @@ Features:
 Setup:
 
 1.Clone the repo
+
 2.Install dependencies: npm install
+
 3.Set environment variables: MONGO_URI, JWT_SECRET, FRONTEND_URL
+
 4.Start server: npm run dev
